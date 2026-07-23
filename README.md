@@ -41,4 +41,3 @@ Welcome to the Virtual Herbal Garden, an interactive web application showcasing 
 
 ---
 
-&copy; 2024 Virtual Herbal Garden. Made by Team Dave Discoverers for SIH 2024 Problem Statement ID 1555. All rights reserved.
